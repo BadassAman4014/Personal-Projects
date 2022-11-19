@@ -1,0 +1,22 @@
+Basic Connections:
+connect 5v pin of Arduino to positive rail of breadboard
+connect GND of Arduino to negative rail of breadboard
+
+LCD Connections:
+VSS to negative rail
+VCC to positive rail
+VO to Potentiometer
+RS to digital pin 11 of Arduino
+RW to negative rail
+E to digital pin 9 of Arduino
+D4 to digital pin 6 of Arduino
+D5 to digital pin 5 of Arduino
+D6 to digital pin 4 of Arduino
+D7 to digital pin 3 of Arduino
+A to positive rail
+K to negative rail
+
+Other Connections:
+Digital pin 3 of Arduino to push button
+Push button to negative rail
+Potentiometer to negative rail

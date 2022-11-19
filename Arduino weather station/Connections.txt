@@ -1,0 +1,13 @@
+Connections:
+
+BMP280 to Arduino:
+vcc to 3.3v (Must be 3.3v Not 5v)
+Gnd to Gnd
+SCL to A5
+SDA to A4
+
+Oled To Arduino:
+Vcc to 5v or 3.3v
+Gnd to Gnd
+SCL to A5 (as They are both i2c so they can share same pins)
+SDA to A4

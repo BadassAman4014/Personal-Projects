@@ -1,0 +1,16 @@
+The cirtuit is as follows :-
+Arduino to bluetooth connections
+5v to vcc
+gnd to gnd
+tx to rx 
+rx to tx.
+
+Relay to bluetooth connections
+Vcc to 5v
+gnd to gnd
+
+Relay to Arduino connections
+In 1 to D10
+In 2 to D11
+
+You can connect 4 relays at a time.
